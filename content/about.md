@@ -1,21 +1,16 @@
 ---
-title: "About"
+title: "关于"
 date: 2017-08-20T21:38:52+08:00
 lastmod: 2017-08-28T21:41:52+08:00
 menu: "main"
-weight: 50
+weight: 20
 
 ---
+# <center>我是谁</center>
+一个在南京读书的福建厦门人，不高但长相周正，酷似王力宏，林更新，彭于晏之辈......正经介绍请参见[我的简历](https://fzq1997.top/CV/)。
 
-Hugo is a static site engine written in Go.
+我是一个喜欢折腾的人，爱看科幻小说（心头好是阿西莫夫基地和大刘的三体）；喜欢捣弄科技类的东西，像谷歌云+v2ray扶墙办法，[OpenAI的沙盘游戏](https://github.com/openai/neural-mmo)；也热衷于电子游戏鉴赏，最爱[奇异人生系列](https://www.douban.com/game/26317250/)和[我的世界](http://mc.163.com/)。
 
+因为还在读书，不说业余就说学余吧。我滑过两年滑板，愿意结交大佬一起解锁新姿势；也喜欢画画，可以说擅长手绘+编程的视觉传达；另外本人沉迷电影无法自拔，最爱[星际迷航系列](https://movie.douban.com/subject/2132932/)和[爱乐之城](https://movie.douban.com/subject/25934014/)，看图识电影比google还准。
 
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+我属于在某些小处的略微偏执狂，喜欢井井有条的一切，还在不断修炼自己的大局观。大学里曾到新西兰旅游，在社团联合会搞过活动，线性代数挂过科，在伯克利暑期学校学过爵士乐历史，干过实习，做过营销比赛，精通ppt也会写文案，渴望接一两个项目充实生活；目前是个雅思考鸭，还在为申请研究生而作准备。

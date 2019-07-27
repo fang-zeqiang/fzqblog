@@ -33,31 +33,18 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   weight = 10
   identifier = "home"
   url = "/"
-[[menu.main]]
-  name = "关于"
-  weight = 20
-  identifier = "about"
-  url = "/about/"
+
 [[menu.main]]
   name = "归档"
   weight = 30
   identifier = "archives"
   url = "/post/"
+
 [[menu.main]]
   name = "分类"
   weight = 40
   identifier = "categories"
   url = "/categories/"
-[[menu.main]]
-  name = "简历"
-  weight = 50
-  identifier = "vitae"
-  url = "/vitae/"
-[[menu.main]]
-  name = "友情链接"
-  weight = 60
-  identifier = "friendlink"
-  url = "/friendlink/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
@@ -69,7 +56,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   gitRepo = "https://github.com/Hereislittlemushroom/Hereislittlemushroom.github.io"
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Even"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "Zeqiang Fang"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Mac", "Software Engineer","Python","Echarts"]
   description = "Zeqiang Fang's Blog"
 
