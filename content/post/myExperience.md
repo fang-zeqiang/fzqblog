@@ -8,7 +8,6 @@ categories: ["个人"]
 ---
 
 # 自我评价
-
   我是一个喜欢折腾的人，喜欢捣弄科技类的东西（如利用谷歌云搭建海外服务器，用J2EE进行前后端连接经营个人博客，用命令行渲染openAI开源的AI游戏等）爱看科幻小说。我不怕困难，效率很高，曾经一天内整合供应链资源，做好6份面向客户的解决方案PPT，得到实习导师的赞赏，目前在学校里跟进刘阳教授的子项目，研究面向电子商务的区块链智能合约的安全性验证，我渴望学习有关计算机的前沿知识。
 
   I am a kind of person who is really into using technology to try something new.(such as using Google Cloud to build an overseas server, using J2EE to run a personal blog, using the command line to render AI games from openAI, etc.) By the way, I am crazy for science fiction.  I, a high efficient worker, am not afraid of tough tasks and. I have integrated resources about supply chain within one day and made 6 customer-oriented solutions slides, which contributes to appreciation of my intern tutor. I am currently following the sub-project of Professor Liu Yang to study the security verification of  smart contracts of blockchain for e-commerce. I am eager to learn the very cutting-edge knowledge about computer science. If I can be hired, I will cooperate with others efficiently. With excellent ability to solve problems in many aspects, I am able to successfully complete the internship!
@@ -21,7 +20,6 @@ categories: ["个人"]
 在中国用普通网络是无法访问国外的许多网站的，比如谷歌，YOUTUBE，我着手搭建VPS，只要将服务器搭建在国外，用网络代理服务，就可以轻松访问国外的网站，我有用过谷歌云,AWS,我发现里面有许多值得进一步探索的功能，像人工智能，神经网络等领域的应用，开始产生了些许兴趣。我发现在中国，喜欢把自己想法藏着，但是在AI年代，开源思想才是时代主流，当我得知微软收购github时是有点担忧的，只有开源，乐于分享自己的想法，才能加速创新，企业拥有自己的ai技术无可厚非，谷歌做了榜样，只有不断的打破信息孤岛，才能让广大开发者从中受益，并反作用于现今社会。
 
 # 教育经历
-
     大学主修Software Engineering
 
 - 2016-2017年 大一
@@ -36,7 +34,6 @@ categories: ["个人"]
       提出音乐查重软件畅想，课堂阐述想法受认可，期末形成可行性研究报告，未来有可能想继续做下去
 
 ## 电子商务数据分析
-
 该项目为课程实践，组内共五人，我在其中任项目组长，选用“网红店运营模式分析“这个课题，负责项目的任务调度，数据收集，关联分析，数据呈现，进度报告与学院答辩。
 其中数据收集主要是python爬虫任务（抓取大众点评网数据有店面名，评论和评分等），用到了常用的正则匹配，beautifulsoup，写入数据库等数据抓取行为，还有html，css相关知识；关联分析主要用了weka和python的matplotlib库中绘图方法进行数据呈现和关联模式挖掘；数据呈现运用SPSS制作散点图，箱线图，还调用Echarts的百度地图接口进行热点图绘制，更好呈现店面与地理位置的关系。
 该项目共有4次演讲与1次成果报告的撰写；项目及时完成并最终在学院内推优，学习到了团队合作的经验和数据分析的具体实践。
@@ -55,7 +52,6 @@ Selected by the school to participate in the summer program of the University of
 In the investment project, I was responsible for the company's market sentiment collection and product line analysis, and lead the team members to use Google Docs to complete tasks efficiently; After the project, I have been able to use financial analysis tools such as Factset and Bloomberg, and use Python language to realize data line drawing. Visio can be used for model description, logical expression, and specific understanding of the annual relationship of investor relations of famous companies were gained in this summer.
 
 ## 2018悦诗风吟绿色营销大赛
-
 该比赛由爱茉莉太平洋贸易有限公司主持，面向全体中国大学生，比赛项目我们选择了产品开发，该项目内容是结合市场需求和品牌理念及调性，提出从原料、功效到包装全新的产品创想，开发大卖新产品。当时和本校两个女生组队，创意地使用“孕期护肤”这个方案从初赛复赛最终挺进决赛前往上海，以无懈可击的营销方案，制作精良的PPT展示与出色的演讲赢得12位评委的一致好评，并最终获得全国第二名，奖学金一万元。
 
 因为擅长计算机在组内负责产品创意的视觉传达，市场调研的数据分析和并在决赛时参与演讲答辩。视觉传达包括营销方案流程图（Visio与符号化表达），产品包装概念图（数位板与Photoshop），产品线设计图（PowerPoint），用户画像等绘制工作；市场调研则有python抓取微博数据与分词后的情感分析，用到了VScode，还有调查问卷回收后的excel数据清洗与基于图表分析，为产品开发方案提供数据支持。通过这次比赛，时间管理能力更进一步，在团队合作中能倾听各方需求并努力实现。
@@ -63,13 +59,12 @@ In the investment project, I was responsible for the company's market sentiment 
 主要职责：负责产品创意的视觉传达（解决方案流程图，产品包装渲染图），市场调研的数据分析(基于Python的情感分析)，制作用户画像，决赛时参与数字营销板块答辩
 
 ## 实习经历
-
 实习地点在信息技术部，一开始由服装供应链领域的需求分析师带领入门，后期跟进期货点价app需求分析团队项目；实习前期主要完成特定服装工厂IOT智能制造各个模块的概念视觉传达和面向客户的PPT制作，用到了PowerPoint, Photoshop, Visio等工具，深入了解了服装领域智能制造实际应用的现状（行业两极分化严重，工厂的智能排产APS还未大规模应用，仓储系统建设已深入人心，柔性制造和智能制造依托的IOT技术应用成本高，容错率低，但应用到位的工厂效益极高如优衣库羽绒服供应商）；
 实习后期主要在导师指导下，用Axure RP和Photoshp工具在软件需求设计层面做该期货交易app的界面与交互设计，学习到客户需求是不断变化的，作为乙方有时需要进行成本管理，时间管理，引导甲方客户描述好自身的需求，而且还需注意开发过程中的工具、内容版权问题。
 In the information&technology department, I worked as a demand analyst in the clothing supply chain field, and then participated in a application team project; First, I mainly completes the conceptual visual communication and orientation of each modules of the IOT intelligent manufacturing. To satisfy the customer's requirement, I used PowerPoint, Visio and so on, which helped me gain an understanding of the actual application of intelligent manufacturing in the field of clothing.Later, under the guidance of the instructor, I used the Axure RP to design the interface and interaction of the futures trading application. The customer needs were constantly changing. As Party B, sometimes it required the skill of cost management and time management. Guidance of  Party A customers to describe their own needs and focus on the tools and content copyright issues in the development process are of equal importance.
 **Reference:**
 
-     厦门建发股份有限公司 Xiamen C&D Inc. | 岗位: Requirement Analyst
+    厦门建发股份有限公司 Xiamen C&D Inc. | 岗位: Requirement Analyst
 
 ## 大学生创新创业计划
 大三下学期我开始参与“面向电子商务的区块链智能合约的设计与实现”课题，该课题是本科导师的子课题，项目将以太坊作为区块链开发平台，重构去中介的可信电子商务商业模式，以租赁电子商务交易流程为例，专注于智能合约的设计、实现、安全性验证等方面，在此基础上进一步提出智能合约优化方案，并将其拓展到其它电子商务应用场景。 
@@ -81,10 +76,11 @@ In the information&technology department, I worked as a demand analyst in the cl
 
 从中了解了许多有关区块链技术实践的知识，并且对此领域也产生兴趣，研究了一些案例，希望之后大四能投入更多努力，提出更多的行业解决方案，如租赁行业。
 
+
 ***
 
+
 # DeeCamp简历草稿
-​
 ## 理由
 总-分-总
 1.	**个人兴趣所在**。身为软件工程专业，喜欢AI话题类的科幻电影，主力机是Macbook pro，搭建过机器学习环境来运行openAI的AI游戏（Neural MMO），出于兴趣想要研究生阶段在数据科学方向上出国深造（理想大学是格拉斯哥大学）。在科研方面，我今年组织研究课题“面向电子商务的区块链智能合约设计与实现”，承接本科导师刘阳教授的子项目，被推荐大学生创新创业省级立项，希望通过此次锻炼，用AI相关技术代替人工验证智能合约的安全性问题。
@@ -98,6 +94,7 @@ In the information&technology department, I worked as a demand analyst in the cl
 
 ## 参与课程
 机器学习，推荐系统，操作系统，电子商务数据分析，Python程序设计，学科前沿专题，高等数学，概率论，线性代数，高等数学
+
 ## 比赛经历
 悦诗风吟数字营销大赛
 电子商务数据分析，做过江浙沪网红经济产品调研，写过商品知识图谱与用户画像，项目成果是运营模式白皮书，对商家的产品介绍有过深入研究，用到了文本分词技术（基于Python），和文本语义识别，良好的数据分析能力 适合AI商品写手课题
@@ -105,9 +102,7 @@ In the information&technology department, I worked as a demand analyst in the cl
 ---
 
 # 申请文书
-
 ## 兴趣爱好
-
 我喜欢科幻电影包括AI，机器人话题，喜欢2001太空漫游，“Her”等电影；主力机是Macbook pro，搭建过机器学习环境来运行openAI的AI游戏（Neural MMO），出于兴趣想要研究生阶段在数据科学方向上出国深造。
 在科研方面，我今年组织研究课题“面向电子商务的区块链智能合约设计与实现”，承接本科导师刘阳教授的子项目，被推荐大学生创新创业省级立项，希望通过此次锻炼，用AI相关技术代替人工验证智能合约的安全性问题。
 我特别喜欢地理，最喜欢的杂志就是国家地理，每一期都有看，印象最深的是那期“我们的城市”，里面提到的未来城市的规划令我神往，而未来的城市肯定和如今高速发展的IT产业息息相关，构建智慧城市需要数据科学方向的人才，而我也有志于此。

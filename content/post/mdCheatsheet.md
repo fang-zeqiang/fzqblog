@@ -10,8 +10,11 @@ weight: 10
 contentCopyright: MIT
 mathjax: true
 autoCollapseToc: true
+hiddenFromHomePage: true
 
 ---
+<!--more-->
+
 
 > Based on [MarkdownPreview test.md](https://github.com/facelessuser/MarkdownPreview/blob/master/examples/test.md).
 

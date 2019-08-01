@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>技术栈 on Zeqiang Fang | 方泽强</title>
+    <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/</link>
+    <description>Recent content in 技术栈 on Zeqiang Fang | 方泽强</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 27 Jul 2019 14:31:12 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown Cheatsheet</title>
+      <link>http://localhost:1313/post/mdCheatsheet/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/mdCheatsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基于Hugo与Github建立自己的博客</title>
+      <link>http://localhost:1313/post/bulid-a-blog/</link>
+      <pubDate>Sat, 27 Jul 2019 14:31:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/bulid-a-blog/</guid>
+      <description>&lt;p&gt;为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

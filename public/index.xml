@@ -6,10 +6,19 @@
     <description>Recent content on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 27 Jul 2019 17:28:49 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2019 01:07:12 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Markdown Cheatsheet</title>
+      <link>http://localhost:1313/post/mdCheatsheet/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/mdCheatsheet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>关于</title>
@@ -35,16 +44,43 @@
       <pubDate>Sat, 27 Jul 2019 17:28:49 +0800</pubDate>
       
       <guid>http://localhost:1313/friendlink/</guid>
-      <description>同窗 张欢</description>
+      <description>大学同窗 不羁之欢 卓B 托马斯黄 奚宇星 大佬捕捉器 Xieyi Hui 注意：如果无法访问以上网站请将https改为http访问</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Sun, 28 Jul 2019 01:07:12 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>h1 Zhanghuan is clever.</description>
+    </item>
+    
+    <item>
+      <title>在伯克利读暑校是怎样一种体验</title>
+      <link>http://localhost:1313/post/sfFirst/</link>
+      <pubDate>Sat, 27 Jul 2019 18:14:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/sfFirst/</guid>
+      <description>&lt;p&gt;2018年暑假有幸通过学校前往伯克利读暑期学校，只可惜暑期并无计算机相关课程，选的investments几乎占用了所有工作日的自习时间，但还是忙里偷闲的玩了一把&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>个人经历梳理</title>
+      <link>http://localhost:1313/post/myExperience/</link>
+      <pubDate>Sat, 27 Jul 2019 17:28:49 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/myExperience/</guid>
+      <description>自我评价 我是一个喜欢折腾的人，喜欢捣弄科技类的东西（如利用谷歌云搭建海外服务器，用J2EE进行前后端连接经营个人博客，用命令行渲染openA</description>
     </item>
     
     <item>
       <title>基于Hugo与Github建立自己的博客</title>
-      <link>http://localhost:1313/post/how-to-bulid-a-blog/</link>
+      <link>http://localhost:1313/post/bulid-a-blog/</link>
       <pubDate>Sat, 27 Jul 2019 14:31:12 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/how-to-bulid-a-blog/</guid>
-      <description>&lt;p&gt;如何利用hugo与github来建立自己的博客呢，请紧张的往下看&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/bulid-a-blog/</guid>
+      <description>&lt;p&gt;为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流&lt;/p&gt;</description>
     </item>
     
   </channel>
