@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IELTS on Zeqiang Fang | 方泽强</title>
+    <link>http://localhost:1313/tags/IELTS/</link>
+    <description>Recent content in IELTS on Zeqiang Fang | 方泽强</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/IELTS/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IELTS-NOTE (2) Pronunciation</title>
+      <link>http://localhost:1313/post/IELTS-Pronunciation/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/IELTS-Pronunciation/</guid>
+      <description>&lt;p&gt;The most common 10 mistakes, made by Chinese, in English pronunciation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IELTS-NOTE (1) Writing</title>
+      <link>http://localhost:1313/post/IELTS-Writing/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/IELTS-Writing/</guid>
+      <description>&lt;p&gt;My writing note about IELTS&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

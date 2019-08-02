@@ -6,10 +6,28 @@
     <description>Recent content on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 28 Jul 2019 01:07:12 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 16:13:50 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IELTS-NOTE (2) Pronunciation</title>
+      <link>http://localhost:1313/post/IELTS-Pronunciation/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/IELTS-Pronunciation/</guid>
+      <description>&lt;p&gt;The most common 10 mistakes, made by Chinese, in English pronunciation&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>IELTS-NOTE (1) Writing</title>
+      <link>http://localhost:1313/post/IELTS-Writing/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/IELTS-Writing/</guid>
+      <description>&lt;p&gt;My writing note about IELTS&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Markdown Cheatsheet</title>
@@ -44,34 +62,16 @@
       <pubDate>Sat, 27 Jul 2019 17:28:49 +0800</pubDate>
       
       <guid>http://localhost:1313/friendlink/</guid>
-      <description>大学同窗 不羁之欢 卓B 托马斯黄 奚宇星 大佬捕捉器 Xieyi Hui 注意：如果无法访问以上网站请将https改为http访问</description>
+      <description>大学同窗 不羁之欢 卓B 托马斯黄 奚宇星 大佬捕捉器 Xieyi Hui 内容管理系统范例 -南林竞赛平台 注意：如果无法访问以上网站请将https改为http访问</description>
     </item>
     
     <item>
-      <title>Test</title>
-      <link>http://localhost:1313/post/test/</link>
-      <pubDate>Sun, 28 Jul 2019 01:07:12 +0800</pubDate>
+      <title>智能合约研究笔记</title>
+      <link>http://localhost:1313/post/smartcontract-note-1/</link>
+      <pubDate>Thu, 01 Aug 2019 16:13:50 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/test/</guid>
-      <description>h1 Zhanghuan is clever.</description>
-    </item>
-    
-    <item>
-      <title>在伯克利读暑校是怎样一种体验</title>
-      <link>http://localhost:1313/post/sfFirst/</link>
-      <pubDate>Sat, 27 Jul 2019 18:14:01 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/sfFirst/</guid>
-      <description>&lt;p&gt;2018年暑假有幸通过学校前往伯克利读暑期学校，只可惜暑期并无计算机相关课程，选的investments几乎占用了所有工作日的自习时间，但还是忙里偷闲的玩了一把&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>个人经历梳理</title>
-      <link>http://localhost:1313/post/myExperience/</link>
-      <pubDate>Sat, 27 Jul 2019 17:28:49 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/myExperience/</guid>
-      <description>自我评价 我是一个喜欢折腾的人，喜欢捣弄科技类的东西（如利用谷歌云搭建海外服务器，用J2EE进行前后端连接经营个人博客，用命令行渲染openA</description>
+      <guid>http://localhost:1313/post/smartcontract-note-1/</guid>
+      <description>&lt;p&gt;“面向电子商务领域区块链智能合约的设计与实现” 项目笔记&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -81,6 +81,24 @@
       
       <guid>http://localhost:1313/post/bulid-a-blog/</guid>
       <description>&lt;p&gt;为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>个人经历（详细）</title>
+      <link>http://localhost:1313/post/myExperience/</link>
+      <pubDate>Sun, 27 Jan 2019 17:28:49 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/myExperience/</guid>
+      <description>自我评价 我是一个喜欢折腾的人，喜欢捣弄科技类的东西，爱看科幻小说。我不怕困难，效率很高，曾经一天内整合供应链资源，做好6份面向客户的解决方案</description>
+    </item>
+    
+    <item>
+      <title>在伯克利读暑校是怎样一种体验</title>
+      <link>http://localhost:1313/post/sfFirst/</link>
+      <pubDate>Fri, 10 Aug 2018 18:14:01 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/sfFirst/</guid>
+      <description>&lt;p&gt;2018年暑假有幸通过学校前往伯克利读暑期学校，只可惜暑期并无计算机相关课程，选的investments几乎占用了所有工作日的自习时间，但还是忙里偷闲的玩了一把&lt;/p&gt;</description>
     </item>
     
   </channel>

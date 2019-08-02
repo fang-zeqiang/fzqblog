@@ -1,7 +1,6 @@
 ---
-title: "IELTS-NOTE (2) Writing"
-date: 2019-03-20T00:00:00+08:00
-lastmod: 2019-03-20T00:00:00+08:00
+title: "IELTS-NOTE (1) Writing"
+date: 2019-07-31T00:00:00+08:00
 draft: false
 tags: ["IELTS"]
 categories: ["学术笔记"]
@@ -17,20 +16,28 @@ My writing note about IELTS
 <!--more-->
 
 Introduction
+
 Band Descriptors
+
 Writing Style
-##TASK 1
+## TASK 1
 
 Task 1  20min  150 words (170-180)  graph   1/3*(0-9)
+
 Task 2  40min  250 words (280+)     essay   2/3*(0-9)
 
-Task Achievement/ Response        6/7
-Coherence and Cohesion            6/7
-Lexical Resource                   6/7
-Grammatical Range and Accuracy	 6/7
+
+- Task Achievement/ Response        6/7
+
+- Coherence and Cohesion            6/7
+
+- Lexical Resource                   6/7
+
+- Grammatical Range and Accuracy	 6/7
 
 ### TA
 1. Summarise  2. Select  3. Compare  4. 150 words  5. No personal opinion
+
 ### TR
 1. Position  2. Paragraphing  3. Conclusion
 
@@ -122,6 +129,7 @@ He/she/it/they		He/she   he or she
 Political correctness 
 Change jobs
  
+
  --- 
   
 ### TASK 1
@@ -163,13 +171,15 @@ A substantial rise can be observed in oil price.
 
 
 
-/\
+/\ 
+
 After the climb, there is a decline.
 The data saw at first a rise, before dropping to ..
 The data increased at first, followed by a reduction.
 An increase can be seen, after which was a decline.
 
-/--\
+/--\ 
+
 after the climb, there is a decline, followed however by a decline at last.
 
 ##### OG test 6
@@ -289,7 +299,9 @@ welcomed   common  trendy   fashionable
 
 the most widely selected/ participated/ used/ applied/ adopted/ chosen/ enjoyed..
 
+
 ---
+
 
 Given are two pie charts depicting the statistics of various energy resources used in electricity production in 1970 and 1980.
 
@@ -395,7 +407,8 @@ Overall, the underground railway with an earlier opening data tends to cover a l
 
 .. cannot be concluded in this pattern/marking.
 
-        Year + length + description
+Year + length + description
+
 London  ed      X	which
 Paris     X	with	  as
 Kyoto   which    ing	  X
@@ -576,8 +589,6 @@ Question 2: Answer 1 = topic sentence + supporting
 Conclusion
 
 
-
-
 ### ARGUMENT - Participants Analysis
 Unpaid community service as high school compulsory program
 1. waste of time
@@ -629,7 +640,8 @@ Market  supply-demand   profits  rational  the rich  freedom
 Pollution should be government
 Responsibility/ responsible to the tax payer/ good image/ support
 City planning/ future development
--
+
+--- 
 
 reduce tax/ tax payer living expense reduces
 avoid occupation/ risks
@@ -686,13 +698,13 @@ Imbalanced sex ratio in university is recognized as a severe problem in high edu
 
 The phenomenon of irrational consumption can be frequently observed in modern society. As far as I am concerned, this is mainly caused by the influence of advertising.
 
-### HOMEWORK: C9T4
+##### HOMEWORK: C9T4
 Every year several languages die out. Some people think that this is not important because life will be easier if there are fewer languages in the world.
 To what extent do you agree or disagree with this opinion?
 
 Native speakers/ government/ linguistic diversity/ (researcher/learner) 
 
-### C6T3 
+##### C6T3 
 Some people believe that visitors to other countries should follow local customs and behavior. Others disagree and think that the host country should welcome cultural differences.
 Discuss both these views and give your own opinion. 
 	Pros	Cons
@@ -724,7 +736,7 @@ Participate in native cultural events   Better understanding of local society  k
 Primary/ secondary/ tertiary 
 
 
-### Can journalists still be trusted?
+##### Can journalists still be trusted?
 What qualifications are needed to be a good journalist?
 
 1. They cannot be trusted (subjective/ limitation/ not the truth/ narratives)
@@ -732,7 +744,7 @@ What qualifications are needed to be a good journalist?
 1. consciousness / justice/ integrity
 2. language proficiency
 
-### C7T2  
+##### C7T2  
 Some people believe that there should be fixed punishments for each type of crime. Others, however, argue that the circumstances of an individual crime, and the motivation for committing it, should always be taken into account when deciding on the punishment.
 Discuss both these views and give your own opinion. 
 
@@ -751,7 +763,7 @@ Criminal          deserved punishment
 Citizens/public     deter potential crimes
 
 
-### C6T2 
+##### C6T2 
 Successful sports professionals can earn a great deal more money than people in other important professions. Some people think this is fully justified while others think it is unfair.
 Discuss both these views and give your own opinion. 
 
@@ -761,7 +773,7 @@ sport team/club    reasonable salary/ competence/ win championship
 sponsorship     rational decision/ higher sales and profits/ market value/ fans
 
 
-### C8T1 
+##### C8T1 
 Some people think that parents should teach children how to be good members of society. Others, however, believe that school is the place to learn this.
 Discuss both these views and give your own opinion. 
 
@@ -769,7 +781,7 @@ Family/parents :1. 2.
 School/ formal: 1. 2.
 
  
-### C5T2 
+##### C5T2 
 In some countries young people are encouraged to work or travel for a year between finishing high school and starting university studies.
 Discuss the advantages and disadvantages for young people who decide to do this. 
 Do the advantages of doing so out weigh its disadvantages?
@@ -844,7 +856,7 @@ Family party/reunion/gathering   be addicted/indulged to/in virtual world/intern
 
 Indifferent family relationship can be easily observed in nowadays society. (In this essay, the reasons as well as several suggestions will be discussed as follows.)
  
-流程图作业问题提醒：
+## 流程图作业问题提醒：
 The cold water should be pumped down into the injection well that is measured 4.5 km deep undergrounds.
 
 The cold water should be pumped down into the injection well.
@@ -861,7 +873,7 @@ My GF, who works in London, is a doctor.
 The data was the largest of all the statistics listed in the table, which grew slightly afterwards.
 
 
-Name	References
+## Name	References
 Vincent van Gogh	Starry Night/ Still Life: a Vase of Twelve Sunflower/ Self Portrait
 Picasso	Guernica
 Jean Claude Monet	Impression Sunrise/ the Water Lillis

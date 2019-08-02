@@ -8,6 +8,7 @@ categories: ["技术栈"]
 ---
 为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流
 <!--more-->
+
 ## 安装Hugo
 这个过程详见另一个博主的教程 [Hugo + Github Pages 搭建个人博客](https://nusr.github.io/post/2019/2019-04-26-creat-hugo-blog/)
 - 注意：以下过程均在macOS环境下运行
@@ -25,7 +26,8 @@ hugo new fzqblog
 
 同样以笔者为例子，进入项目，从github上当一个主题下来（该主题为笔者喜爱的，有兴趣可以选择自己的）
 
-- 主题会保存在项目博客根目录下的themes文件夹里
+主题会保存在项目博客根目录下的themes文件夹里
+
 ```bash
 cd fzqblog
 git clone https://github.com/olOwOlo/hugo-theme-even themes/even

@@ -14,4 +14,7 @@ weight: 60
 ## 大佬捕捉器
 - [Xieyi Hui](https://yihui.name/)
 
+## 内容管理系统范例
+-[南林竞赛平台](http://acm.njfu.edu.cn/)
+
 注意：如果无法访问以上网站请将https改为http访问
