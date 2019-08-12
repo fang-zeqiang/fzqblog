@@ -7,6 +7,7 @@ weight: 20
 
 ---
 # <center>我是谁</center>
+
 一个在南京读书的福建厦门人，不高但长相周正，酷似王力宏，林更新，彭于晏之辈......正经介绍请参见[我的简历](https://fzq1997.top/CV/)。
 
 我是一个喜欢折腾的人，爱看科幻小说（心头好是阿西莫夫基地和大刘的三体）；喜欢捣弄科技类的东西，像谷歌云+v2ray扶墙办法，[OpenAI的沙盘游戏](https://github.com/openai/neural-mmo)；也热衷于电子游戏鉴赏，最爱[奇异人生系列](https://www.douban.com/game/26317250/)和[我的世界](http://mc.163.com/)。

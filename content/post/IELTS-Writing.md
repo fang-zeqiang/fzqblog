@@ -9,7 +9,7 @@ weight: 10
 contentCopyright: MIT
 mathjax: true
 autoCollapseToc: true
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 
 ---
 My writing note about IELTS

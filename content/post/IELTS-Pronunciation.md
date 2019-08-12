@@ -1,7 +1,6 @@
 ---
 title: "IELTS-NOTE (2) Pronunciation"
 date: 2019-08-01T00:00:00+08:00
-lastmod: 2019-08-01T00:00:00+08:00
 draft: false
 tags: ["IELTS"]
 categories: ["学术笔记"]
@@ -10,7 +9,7 @@ weight: 10
 contentCopyright: MIT
 mathjax: true
 autoCollapseToc: true
-hiddenFromHomePage: false
+hiddenFromHomePage: true
 
 ---
 The most common 10 mistakes, made by Chinese, in English pronunciation 

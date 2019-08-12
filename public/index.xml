@@ -6,7 +6,7 @@
     <description>Recent content on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Aug 2019 16:13:50 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 22:47:50 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -53,7 +53,7 @@
       <pubDate>Sat, 27 Jul 2019 17:09:25 +0800</pubDate>
       
       <guid>http://localhost:1313/CV/</guid>
-      <description>教育经历 2016-2020 南京财经大学 软件工程 2017-2020 南京财经大学 金融学 项目实践 2018 电子商务数据分析 - 网红店运营模式白皮书 2018 悦诗风吟绿色营销大赛 - “格林童话”护肤产</description>
+      <description>教育经历 2016-2020 南京财经大学 软件工程 2017-2020 南京财经大学 金融学 2018-2018 加州大学伯克利分校 投资学 项目实践 2018 电子商务数据分析 - 网红店运营模式白皮书 2018 悦诗风吟绿色营</description>
     </item>
     
     <item>
@@ -62,7 +62,25 @@
       <pubDate>Sat, 27 Jul 2019 17:28:49 +0800</pubDate>
       
       <guid>http://localhost:1313/friendlink/</guid>
-      <description>大学同窗 不羁之欢 卓B 托马斯黄 奚宇星 大佬捕捉器 Xieyi Hui 内容管理系统范例 -南林竞赛平台 注意：如果无法访问以上网站请将https改为http访问</description>
+      <description>大学同窗 不羁之欢 卓B 托马斯黄 奚宇星 大佬捕捉器 Xieyi Hui 内容管理系统范例 南林竞赛平台 统计制度 注意：如果无法访问以上网站请将https改为http访问</description>
+    </item>
+    
+    <item>
+      <title>个人/团队作品</title>
+      <link>http://localhost:1313/post/work/</link>
+      <pubDate>Mon, 12 Aug 2019 22:47:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/work/</guid>
+      <description>&lt;p&gt;一些作品，简历里有所提及&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TASK2_TOPICS</title>
+      <link>http://localhost:1313/post/ielts_task2_topic/</link>
+      <pubDate>Sun, 11 Aug 2019 11:40:13 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/ielts_task2_topic/</guid>
+      <description>&lt;p&gt;IELTS topics of task2 ,as follows, is for you !&lt;/p&gt;</description>
     </item>
     
     <item>
