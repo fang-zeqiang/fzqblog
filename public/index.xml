@@ -6,7 +6,7 @@
     <description>Recent content on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Aug 2019 22:47:50 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 23:50:41 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -63,6 +63,24 @@
       
       <guid>http://localhost:1313/friendlink/</guid>
       <description>大学同窗 不羁之欢 卓B 托马斯黄 奚宇星 大佬捕捉器 Xieyi Hui 内容管理系统范例 南林竞赛平台 统计制度 注意：如果无法访问以上网站请将https改为http访问</description>
+    </item>
+    
+    <item>
+      <title>基于Python的CCF模拟題解析（持续更新）</title>
+      <link>http://localhost:1313/post/ccf_set/</link>
+      <pubDate>Thu, 15 Aug 2019 23:50:41 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/ccf_set/</guid>
+      <description>&lt;p&gt;来自&lt;a href=&#34;http://118.190.20.162/home.page&#34;&gt;ccf官网&lt;/a&gt;的模拟考題，报名后即可查看&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>结合JavaScript直接抓取网站内容</title>
+      <link>http://localhost:1313/post/hungry-english-getInfo/</link>
+      <pubDate>Wed, 14 Aug 2019 00:09:26 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/hungry-english-getInfo/</guid>
+      <description>&lt;p&gt;该方法用于解决“爬虫操作繁琐与手动复制太累”的情况&lt;/p&gt;</description>
     </item>
     
     <item>

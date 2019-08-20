@@ -24,5 +24,5 @@ draft: false
 
 1. [悦诗风吟决赛幻灯片](/doc/innisfree.pdf)
 
-2. [课堂展示幻灯片](/doc/political.pdf)
+2. [课堂展示幻灯片(空)](/doc/political.pdf)
 
