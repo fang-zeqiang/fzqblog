@@ -2,6 +2,8 @@
 title: "基于Python的CCF模拟題解析（持续更新）"
 date: 2019-08-15T23:50:41+08:00
 draft: false
+tags: ["CCF","Python"]
+categories: ["技术栈"]
 ---
 
 来自[ccf官网](http://118.190.20.162/home.page)的模拟考題，报名后即可查看

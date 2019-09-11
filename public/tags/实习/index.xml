@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>实习 on Zeqiang Fang | 方泽强</title>
+    <link>http://localhost:1313/tags/%E5%AE%9E%E4%B9%A0/</link>
+    <description>Recent content in 实习 on Zeqiang Fang | 方泽强</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 23 Aug 2019 23:05:38 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/%E5%AE%9E%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>体力活还是脑力活？</title>
+      <link>http://localhost:1313/post/test/weeklyupdate/weeklyupdate_1/</link>
+      <pubDate>Fri, 23 Aug 2019 23:05:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/test/weeklyupdate/weeklyupdate_1/</guid>
+      <description>&lt;p&gt;为什么喜欢游戏？因为进入其中就是世界的主角&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

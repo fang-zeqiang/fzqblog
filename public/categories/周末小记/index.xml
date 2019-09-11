@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>周末小记 on Zeqiang Fang | 方泽强</title>
+    <link>http://localhost:1313/categories/%E5%91%A8%E6%9C%AB%E5%B0%8F%E8%AE%B0/</link>
+    <description>Recent content in 周末小记 on Zeqiang Fang | 方泽强</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 11 Sep 2019 23:52:38 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/categories/%E5%91%A8%E6%9C%AB%E5%B0%8F%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>常怀千岁忧</title>
+      <link>http://localhost:1313/post/test/weeklyupdate/weeklyupdate_2/</link>
+      <pubDate>Wed, 11 Sep 2019 23:52:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/test/weeklyupdate/weeklyupdate_2/</guid>
+      <description>&lt;p&gt;读尤瓦尔·赫拉利的*A brief history of humankind*有感&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>体力活还是脑力活？</title>
+      <link>http://localhost:1313/post/test/weeklyupdate/weeklyupdate_1/</link>
+      <pubDate>Fri, 23 Aug 2019 23:05:38 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/test/weeklyupdate/weeklyupdate_1/</guid>
+      <description>&lt;p&gt;为什么喜欢游戏？因为进入其中就是世界的主角&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
