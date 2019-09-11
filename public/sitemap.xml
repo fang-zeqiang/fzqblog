@@ -45,14 +45,21 @@
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-08-15T23:50:41+08:00</lastmod>
+    <lastmod>2019-08-23T23:05:38+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-08-15T23:50:41+08:00</lastmod>
+    <lastmod>2019-08-23T23:05:38+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/test/weeklyupdate/weeklyupdate_1/</loc>
+    <lastmod>2019-08-23T23:05:38+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>

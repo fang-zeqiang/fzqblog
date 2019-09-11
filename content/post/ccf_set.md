@@ -8,6 +8,33 @@ draft: false
 
 <!--more-->
 
+## 201809-01
+
+小明买菜,测试成绩100，这题过于简单，如下所示：
+
+*  pay attention to the difference between 'arr2 = arr1' and 'arr2 = arr1.copy()'
+* deep copy VS shallow copy
+
+```python
+
+n = int(input().strip())
+price1,price2 = [],[]
+
+price1 = input().split()
+price1 = list(map(int,price1))
+price2 = price1.copy()
+
+for i in range(1,n-1):
+    price2[i] = (price1[i-1] + price1[i] + price1[i+1]) // 3
+
+price2[0],price2[n-1] = (price1[0] + price1[1]) // 2 , (price1[n-2] + price1[n-1]) // 2
+
+for i in price2:
+    print(i,end=' ')
+```
+
+## 201809-02
+
 ## 2018-12-01
 
 小明上学，测试成绩100，如下所示：

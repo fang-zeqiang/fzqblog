@@ -16,6 +16,6 @@ weight: 60
 
 ## 内容管理系统范例
 - [南林竞赛平台](http://acm.njfu.edu.cn/)
-- [统计制度](http://cosx.org/)
+- [统计之都](http://cosx.org/)
 
 注意：如果无法访问以上网站请将https改为http访问
