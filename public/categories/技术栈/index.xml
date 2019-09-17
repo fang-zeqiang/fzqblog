@@ -31,10 +31,10 @@
     
     <item>
       <title>结合JavaScript直接抓取网站内容</title>
-      <link>http://localhost:1313/post/hungry-english-getInfo/</link>
+      <link>http://localhost:1313/post/ILETS/hungry-english-getInfo/</link>
       <pubDate>Wed, 14 Aug 2019 00:09:26 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/hungry-english-getInfo/</guid>
+      <guid>http://localhost:1313/post/ILETS/hungry-english-getInfo/</guid>
       <description>&lt;p&gt;该方法用于解决“爬虫操作繁琐与手动复制太累”的情况&lt;/p&gt;</description>
     </item>
     

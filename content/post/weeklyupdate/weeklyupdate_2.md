@@ -6,7 +6,7 @@ tags: ["5G","人类简史"]
 categories: ["周末小记"]
 ---
 
-读尤瓦尔·赫拉利的*A brief history of humankind*有感
+读尤瓦尔·赫拉利的 *A brief history of humankind* 有感
 
 <!--more-->
 
