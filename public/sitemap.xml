@@ -44,6 +44,25 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2019-10-08T21:48:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2019-10-08T21:48:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/myApplication/</loc>
+    <lastmod>2019-10-08T21:48:41+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/5G/</loc>
     <lastmod>2019-09-11T23:52:38+08:00</lastmod>
     <priority>0</priority>
@@ -56,19 +75,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-09-11T23:52:38+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-09-11T23:52:38+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2019-09-11T23:52:38+08:00</lastmod>
     <priority>0</priority>
   </url>
