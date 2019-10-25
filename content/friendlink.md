@@ -7,10 +7,11 @@ weight: 60
 
 ## 大学同窗
 - [不羁之欢](https://www.delaunay.cn/)
-- [卓B](https://ouyuo.github.io)
 - [托马斯黄](https://www.hhizz.cn/)
 - [奚宇星](http://blog.xyx98.top/)
 - [赵晓雪](https://blog.csdn.net/chao_ji_cai)
+- [刘永杰](http://na2rian.com)
+- [卓B](https://ouyuo.github.io)
 
 ## 大佬捕捉器
 - [Xieyi Hui](https://yihui.name/)
