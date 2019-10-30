@@ -5,6 +5,10 @@ menu: "main"
 weight: 60
 ---
 
+## 个人网站
+- [面向STEM的AI职业规划平台](https://www.aicareer.info)
+- [团队毕业设计开发平台](https://aicareer.coding.net)
+
 ## 大学同窗
 - [不羁之欢](https://www.delaunay.cn/)
 - [托马斯黄](https://www.hhizz.cn/)
@@ -12,6 +16,7 @@ weight: 60
 - [赵晓雪](https://blog.csdn.net/chao_ji_cai)
 - [刘永杰](http://na2rian.com)
 - [卓B](https://ouyuo.github.io)
+- [影哥](https://shadoowz97.github.io/)
 
 ## 大佬捕捉器
 - [Xieyi Hui](https://yihui.name/)
@@ -24,5 +29,9 @@ weight: 60
 ## 人工智能Demo
 - [捉迷藏](https://openai.com/blog/emergent-tool-use/) #多智体 #强化学习
 - [沙盘模拟](https://openai.com/blog/neural-mmo/) #多智体 #PyTorch #Linux
+
+## 常用链接
+- [bing](http://www.bing.com)
+- [tencent docs](http://docs.qq.com)
 
 注意：如果无法访问以上网站请将https改为http访问

@@ -81,7 +81,7 @@ Email: [zeqiangfang@foxmail.com](mailto:zeqiangfang@foxmail.com); 主页: [www.f
 
     基于Qt图形界面开发；Python后端实现嵌入Echarts
 
-- 2019 区块链智能合约的安全性验证
+- 2019 [区块链智能合约的安全性验证](/doc/省级重点申报书.pdf)
 
     智能合约Solidity代码实现；6个合约UML业务建模；获得江苏省级立项与1万元赞助
 
