@@ -66,17 +66,12 @@
     </item>
     
     <item>
-      <title>Hosts_revise</title>
+      <title>如何修改Hosts文件访问特定网站</title>
       <link>http://localhost:1313/post/hosts_revise/</link>
       <pubDate>Sat, 09 Nov 2019 14:03:07 +0800</pubDate>
       
       <guid>http://localhost:1313/post/hosts_revise/</guid>
-      <description>for mac os in Finder menu
-use
-1  Command+Shift+G   input
-1  /private/etc/   then, you can find the hosts file
-Here is my hosts content as following
-1 2 3 4 5 6 7 8 9 10 11  ## # Host Database # # localhost is used to configure the loopback interface # when the system is booting. Do not change this entry. ## 127.</description>
+      <description></description>
     </item>
     
     <item>
