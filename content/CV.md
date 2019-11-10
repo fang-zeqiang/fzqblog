@@ -3,7 +3,7 @@ title: "简历"
 date: 2019-07-27T17:09:25+08:00
 lastmod: 2017-08-28T21:41:52+08:00
 menu: "main"
-weight: 50
+weight: 5
 ---
 
 <div style="text-align:center">

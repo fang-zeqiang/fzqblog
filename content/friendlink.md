@@ -2,12 +2,13 @@
 title: "友情链接"
 date: 2019-07-27T17:28:49+08:00
 menu: "main"
-weight: 60
+weight: 6
 ---
 
 ## 个人网站
 - [面向STEM的AI职业规划平台](https://www.aicareer.info)
 - [团队毕业设计开发平台](https://aicareer.coding.net)
+- [腾讯开发者平台（原Coding）](https://dev.tencent.com/u/cupcake/)
 
 ## 大学同窗
 - [不羁之欢](https://www.delaunay.cn/)
@@ -33,5 +34,6 @@ weight: 60
 ## 常用链接
 - [bing](http://www.bing.com)
 - [tencent docs](http://docs.qq.com)
+- [teamviewer](https://www.teamviewer.cn/cn/)
 
 注意：如果无法访问以上网站请将https改为http访问

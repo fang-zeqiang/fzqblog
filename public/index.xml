@@ -6,10 +6,37 @@
     <description>Recent content on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Oct 2019 21:48:41 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2019 14:03:07 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/About/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/About/</guid>
+      <description>我是谁 一个在南京读书的福建厦门人，不高但长相周正，比王力宏鼻子大，没有林更新高，脸比彭于晏尖&amp;hellip;&amp;hellip;正经介绍请参见我</description>
+    </item>
+    
+    <item>
+      <title>简历</title>
+      <link>http://localhost:1313/CV/</link>
+      <pubDate>Sat, 27 Jul 2019 17:09:25 +0800</pubDate>
+      
+      <guid>http://localhost:1313/CV/</guid>
+      <description>简历 方泽强 联系方式 Email: zeqiangfang@foxmail.com; 主页: www.fzq1997.top; 现居福建厦门 教育经历 2016-2020 南京财经大学 信息工程学院 软件工程 2017-2020 南京财经大学 金融学院 金融学 2018-2018 加州大学伯克利分校 Haas</description>
+    </item>
+    
+    <item>
+      <title>友情链接</title>
+      <link>http://localhost:1313/friendlink/</link>
+      <pubDate>Sat, 27 Jul 2019 17:28:49 +0800</pubDate>
+      
+      <guid>http://localhost:1313/friendlink/</guid>
+      <description>个人网站 面向STEM的AI职业规划平台 团队毕业设计开发平台 腾讯开发者平台（原Coding） 大学同窗 不羁之欢 托马斯黄 奚宇星 赵晓雪 刘永杰 卓B 影哥</description>
+    </item>
     
     <item>
       <title>IELTS-NOTE (2) Pronunciation</title>
@@ -39,39 +66,17 @@
     </item>
     
     <item>
-      <title>关于</title>
-      <link>http://localhost:1313/About/</link>
-      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      <title>Hosts_revise</title>
+      <link>http://localhost:1313/post/hosts_revise/</link>
+      <pubDate>Sat, 09 Nov 2019 14:03:07 +0800</pubDate>
       
-      <guid>http://localhost:1313/About/</guid>
-      <description>我是谁 一个在南京读书的福建厦门人，不高但长相周正，比王力宏鼻子大，没有林更新高，脸比彭于晏尖&amp;hellip;&amp;hellip;正经介绍请参见我</description>
-    </item>
-    
-    <item>
-      <title>简历</title>
-      <link>http://localhost:1313/CV/</link>
-      <pubDate>Sat, 27 Jul 2019 17:09:25 +0800</pubDate>
-      
-      <guid>http://localhost:1313/CV/</guid>
-      <description>简历 方泽强 联系方式 Email: zeqiangfang@foxmail.com; 主页: www.fzq1997.top; 现居福建厦门 教育经历 2016-2020 南京财经大学 信息工程学院 软件工程 2017-2020 南京财经大学 金融学院 金融学 2018-2018 加州大学伯克利分校 Haas</description>
-    </item>
-    
-    <item>
-      <title>友情链接</title>
-      <link>http://localhost:1313/friendlink/</link>
-      <pubDate>Sat, 27 Jul 2019 17:28:49 +0800</pubDate>
-      
-      <guid>http://localhost:1313/friendlink/</guid>
-      <description>大学同窗 不羁之欢 托马斯黄 奚宇星 赵晓雪 刘永杰 卓B 影哥 个人网站 面向STEM的AI职业规划平台 团队毕业设计开发平台 大佬捕捉器 Xieyi Hui 于淼 内容管理系统范</description>
-    </item>
-    
-    <item>
-      <title>我的目标院校</title>
-      <link>http://localhost:1313/post/myApplication/</link>
-      <pubDate>Tue, 08 Oct 2019 21:48:41 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/myApplication/</guid>
-      <description>&lt;p&gt;研究生Master项目申请&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/hosts_revise/</guid>
+      <description>for mac os in Finder menu
+use
+1  Command+Shift+G   input
+1  /private/etc/   then, you can find the hosts file
+Here is my hosts content as following
+1 2 3 4 5 6 7 8 9 10 11  ## # Host Database # # localhost is used to configure the loopback interface # when the system is booting. Do not change this entry. ## 127.</description>
     </item>
     
     <item>

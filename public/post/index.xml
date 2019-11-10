@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 08 Oct 2019 21:48:41 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2019 14:03:07 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -39,12 +39,17 @@
     </item>
     
     <item>
-      <title>我的目标院校</title>
-      <link>http://localhost:1313/post/myApplication/</link>
-      <pubDate>Tue, 08 Oct 2019 21:48:41 +0800</pubDate>
+      <title>Hosts_revise</title>
+      <link>http://localhost:1313/post/hosts_revise/</link>
+      <pubDate>Sat, 09 Nov 2019 14:03:07 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/myApplication/</guid>
-      <description>&lt;p&gt;研究生Master项目申请&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/hosts_revise/</guid>
+      <description>for mac os in Finder menu
+use
+1  Command+Shift+G   input
+1  /private/etc/   then, you can find the hosts file
+Here is my hosts content as following
+1 2 3 4 5 6 7 8 9 10 11  ## # Host Database # # localhost is used to configure the loopback interface # when the system is booting. Do not change this entry. ## 127.</description>
     </item>
     
     <item>
