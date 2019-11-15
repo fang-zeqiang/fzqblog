@@ -36,4 +36,9 @@ weight: 6
 - [tencent docs](http://docs.qq.com)
 - [teamviewer](https://www.teamviewer.cn/cn/)
 
+## 学术
+- [Arxiv](https://arxiv.org/)
+- [Sci-hub]
+- [Baidu Academy]()
+
 注意：如果无法访问以上网站请将https改为http访问
