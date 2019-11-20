@@ -709,19 +709,3 @@ $$ E(\mathbf{v}, \mathbf{h}) = -\sum_{i,j}w_{ij}v_i h_j - \sum_i b_i v_i - \sum_
     p(v_i=1|\mathbf{h}) & = \sigma\left(\sum_j w_{ij}h_j + b_i\right) \\
     p(h_j=1|\mathbf{v}) & = \sigma\left(\sum_i w_{ij}v_i + c_j\right)
 \end{align}
-
-## 网易云音乐
-
-```
-{{%/* music "28196554" */%}}
-```
-
-{{% music "28196554" %}}
-
-## YouTube
-
-```
-{{%/* youtube "wC5pJm8RAu4" */%}}
-```
-
-{{% youtube "wC5pJm8RAu4" %}}

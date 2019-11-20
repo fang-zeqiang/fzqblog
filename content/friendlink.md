@@ -2,7 +2,7 @@
 title: "友情链接"
 date: 2019-07-27T17:28:49+08:00
 menu: "main"
-weight: 6
+weight: 7
 ---
 
 ## 个人网站
@@ -38,7 +38,7 @@ weight: 6
 
 ## 学术
 - [Arxiv](https://arxiv.org/)
-- [Sci-hub]()
-- [Baidu Academy]()
+- [Sci-hub](http://www.sci-hub.tw)
+- [Baidu Academy](http://xueshu.baidu.com/)
 
 注意：如果无法访问以上网站请将https改为http访问

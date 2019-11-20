@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Zeqiang Fang | 方泽强</title>
-    <link>http://localhost:1313/tags/Python/</link>
+    <link>http://localhost:1313/tags/python/</link>
     <description>Recent content in Python on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 15 Aug 2019 23:50:41 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/Python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,10 +22,10 @@
     
     <item>
       <title>结合JavaScript直接抓取网站内容</title>
-      <link>http://localhost:1313/post/ILETS/hungry-english-getInfo/</link>
+      <link>http://localhost:1313/post/ilets/hungry-english-getinfo/</link>
       <pubDate>Wed, 14 Aug 2019 00:09:26 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/ILETS/hungry-english-getInfo/</guid>
+      <guid>http://localhost:1313/post/ilets/hungry-english-getinfo/</guid>
       <description>&lt;p&gt;该方法用于解决“爬虫操作繁琐与手动复制太累”的情况&lt;/p&gt;</description>
     </item>
     

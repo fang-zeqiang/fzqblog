@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/About/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/CV/</loc>
+    <loc>http://localhost:1313/cv/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -23,36 +23,67 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/ILETS/IELTS-Pronunciation/</loc>
+    <loc>http://localhost:1313/post/ilets/ielts-pronunciation/</loc>
     <lastmod>2019-08-01T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/ILETS/IELTS-Writing/</loc>
+    <loc>http://localhost:1313/post/ilets/ielts-writing/</loc>
     <lastmod>2019-07-31T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/mdCheatsheet/</loc>
+    <loc>http://localhost:1313/post/mdcheatsheet/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/data-mining/</loc>
+    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-11-09T14:03:07+08:00</lastmod>
+    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-11-09T14:03:07+08:00</lastmod>
+    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/</loc>
+    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/how-to-get-google/</loc>
+    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -63,19 +94,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/5G/</loc>
-    <lastmod>2019-09-11T23:52:38+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-09-11T23:52:38+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/5g/</loc>
     <lastmod>2019-09-11T23:52:38+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -119,13 +138,13 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/CCF/</loc>
+    <loc>http://localhost:1313/tags/ccf/</loc>
     <lastmod>2019-08-15T23:50:41+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/Python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2019-08-15T23:50:41+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -138,13 +157,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/</loc>
-    <lastmod>2019-08-15T23:50:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/JavaScript/</loc>
+    <loc>http://localhost:1313/tags/javascript/</loc>
     <lastmod>2019-08-14T00:09:26+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -156,7 +169,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/ILETS/hungry-english-getInfo/</loc>
+    <loc>http://localhost:1313/post/ilets/hungry-english-getinfo/</loc>
     <lastmod>2019-08-14T00:09:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -170,13 +183,13 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/IELTS/</loc>
+    <loc>http://localhost:1313/tags/ielts/</loc>
     <lastmod>2019-08-11T11:40:13+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/ILETS/ielts_task2_topic/</loc>
+    <loc>http://localhost:1313/post/ilets/ielts_task2_topic/</loc>
     <lastmod>2019-08-11T11:40:13+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -234,14 +247,14 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/myExperience/</loc>
+    <loc>http://localhost:1313/post/myexperience/</loc>
     <lastmod>2019-01-27T17:28:49+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/sfFirst/</loc>
+    <loc>http://localhost:1313/post/sffirst/</loc>
     <lastmod>2018-08-10T18:14:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

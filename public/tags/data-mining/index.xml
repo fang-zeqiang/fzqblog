@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Mining on Zeqiang Fang | 方泽强</title>
+    <link>http://localhost:1313/tags/data-mining/</link>
+    <description>Recent content in Data Mining on Zeqiang Fang | 方泽强</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 20 Nov 2019 10:53:54 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>数据挖掘：基于文本挖掘分析谷歌招聘信息</title>
+      <link>http://localhost:1313/post/how-to-get-google/</link>
+      <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/how-to-get-google/</guid>
+      <description>&lt;p&gt;结合Python与Echarts做好数据挖掘&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

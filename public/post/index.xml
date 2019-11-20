@@ -6,36 +6,45 @@
     <description>Recent content in Posts on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 09 Nov 2019 14:03:07 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 10:53:54 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IELTS-NOTE (2) Pronunciation</title>
-      <link>http://localhost:1313/post/ILETS/IELTS-Pronunciation/</link>
+      <link>http://localhost:1313/post/ilets/ielts-pronunciation/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/ILETS/IELTS-Pronunciation/</guid>
+      <guid>http://localhost:1313/post/ilets/ielts-pronunciation/</guid>
       <description>&lt;p&gt;The most common 10 mistakes, made by Chinese, in English pronunciation&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>IELTS-NOTE (1) Writing</title>
-      <link>http://localhost:1313/post/ILETS/IELTS-Writing/</link>
+      <link>http://localhost:1313/post/ilets/ielts-writing/</link>
       <pubDate>Wed, 31 Jul 2019 00:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/ILETS/IELTS-Writing/</guid>
+      <guid>http://localhost:1313/post/ilets/ielts-writing/</guid>
       <description>&lt;p&gt;My writing note about IELTS&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Cheatsheet</title>
-      <link>http://localhost:1313/post/mdCheatsheet/</link>
+      <link>http://localhost:1313/post/mdcheatsheet/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/mdCheatsheet/</guid>
+      <guid>http://localhost:1313/post/mdcheatsheet/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>数据挖掘：基于文本挖掘分析谷歌招聘信息</title>
+      <link>http://localhost:1313/post/how-to-get-google/</link>
+      <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/how-to-get-google/</guid>
+      <description>&lt;p&gt;结合Python与Echarts做好数据挖掘&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,10 +85,10 @@
     
     <item>
       <title>结合JavaScript直接抓取网站内容</title>
-      <link>http://localhost:1313/post/ILETS/hungry-english-getInfo/</link>
+      <link>http://localhost:1313/post/ilets/hungry-english-getinfo/</link>
       <pubDate>Wed, 14 Aug 2019 00:09:26 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/ILETS/hungry-english-getInfo/</guid>
+      <guid>http://localhost:1313/post/ilets/hungry-english-getinfo/</guid>
       <description>&lt;p&gt;该方法用于解决“爬虫操作繁琐与手动复制太累”的情况&lt;/p&gt;</description>
     </item>
     
@@ -94,10 +103,10 @@
     
     <item>
       <title>TASK2_TOPICS</title>
-      <link>http://localhost:1313/post/ILETS/ielts_task2_topic/</link>
+      <link>http://localhost:1313/post/ilets/ielts_task2_topic/</link>
       <pubDate>Sun, 11 Aug 2019 11:40:13 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/ILETS/ielts_task2_topic/</guid>
+      <guid>http://localhost:1313/post/ilets/ielts_task2_topic/</guid>
       <description>&lt;p&gt;IELTS topics of task2 ,as follows, is for you !&lt;/p&gt;</description>
     </item>
     
@@ -130,19 +139,19 @@
     
     <item>
       <title>个人经历（详细）</title>
-      <link>http://localhost:1313/post/myExperience/</link>
+      <link>http://localhost:1313/post/myexperience/</link>
       <pubDate>Sun, 27 Jan 2019 17:28:49 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/myExperience/</guid>
+      <guid>http://localhost:1313/post/myexperience/</guid>
       <description>自我评价 我是一个喜欢折腾的人，喜欢捣弄科技类的东西，爱看科幻小说。我不怕困难，效率很高，曾经一天内整合供应链资源，做好6份面向客户的解决方案</description>
     </item>
     
     <item>
       <title>在伯克利读暑校是怎样一种体验</title>
-      <link>http://localhost:1313/post/sfFirst/</link>
+      <link>http://localhost:1313/post/sffirst/</link>
       <pubDate>Fri, 10 Aug 2018 18:14:01 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/sfFirst/</guid>
+      <guid>http://localhost:1313/post/sffirst/</guid>
       <description>&lt;p&gt;2018年暑假有幸通过学校前往伯克利读暑期学校，只可惜暑期并无计算机相关课程，选的investments几乎占用了所有工作日的自习时间，但还是忙里偷闲的玩了一把&lt;/p&gt;</description>
     </item>
     

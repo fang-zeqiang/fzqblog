@@ -3,7 +3,7 @@ title: "简历"
 date: 2019-07-27T17:09:25+08:00
 lastmod: 2017-08-28T21:41:52+08:00
 menu: "main"
-weight: 5
+weight: 6
 ---
 
 <div style="text-align:center">
@@ -46,6 +46,14 @@ Email: [zeqiangfang@foxmail.com](mailto:zeqiangfang@foxmail.com); 主页: [www.f
 - 2018-2018 加州大学伯克利分校 Haas商学院    投资学
 
 <div style="text-align:center">
+<h3 id="edu"> 研究兴趣 </h3>
+</div>
+
+- 数据科学，数据可视化方向
+
+- 区块链智能合约安全性能验证
+
+<div style="text-align:center">
 <h3 id="edu"> 实习经历 </h3>
 </div>
 
@@ -84,14 +92,6 @@ Email: [zeqiangfang@foxmail.com](mailto:zeqiangfang@foxmail.com); 主页: [www.f
 - 2019 [区块链智能合约的安全性验证](/doc/省级重点申报书.pdf)
 
     智能合约Solidity代码实现；6个合约UML业务建模；获得江苏省级立项与1万元赞助
-
-<div style="text-align:center">
-<h3 id="edu"> 研究兴趣 </h3>
-</div>
-
-- 数据科学，数据可视化方向
-
-- 区块链智能合约安全性能验证
 
 <div style="text-align:center">
 <h3 id="edu"> 擅长技能 </h3>

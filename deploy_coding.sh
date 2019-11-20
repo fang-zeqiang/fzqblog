@@ -1,4 +1,4 @@
-cd /Users/fangzeqiang/Desktop/fzqblog
+cd /Users/fangzeqiang/Coding/fzqblog
 # 删除打包文件夹
 rm -rf public
 
@@ -6,7 +6,7 @@ rm -rf public
 hugo -t even 
 
 # 进入打包后生成的public文件夹
-cd /Users/fangzeqiang/Desktop/fzqblog/public
+cd /Users/fangzeqiang/Coding/fzqblog/public
 
 # Add changes to git | 创建git命令
 # -A 表示所有内容

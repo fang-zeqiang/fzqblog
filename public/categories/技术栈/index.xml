@@ -6,18 +6,27 @@
     <description>Recent content in 技术栈 on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 15 Aug 2019 23:50:41 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 10:53:54 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown Cheatsheet</title>
-      <link>http://localhost:1313/post/mdCheatsheet/</link>
+      <link>http://localhost:1313/post/mdcheatsheet/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/mdCheatsheet/</guid>
+      <guid>http://localhost:1313/post/mdcheatsheet/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>数据挖掘：基于文本挖掘分析谷歌招聘信息</title>
+      <link>http://localhost:1313/post/how-to-get-google/</link>
+      <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/how-to-get-google/</guid>
+      <description>&lt;p&gt;结合Python与Echarts做好数据挖掘&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -31,10 +40,10 @@
     
     <item>
       <title>结合JavaScript直接抓取网站内容</title>
-      <link>http://localhost:1313/post/ILETS/hungry-english-getInfo/</link>
+      <link>http://localhost:1313/post/ilets/hungry-english-getinfo/</link>
       <pubDate>Wed, 14 Aug 2019 00:09:26 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/ILETS/hungry-english-getInfo/</guid>
+      <guid>http://localhost:1313/post/ilets/hungry-english-getinfo/</guid>
       <description>&lt;p&gt;该方法用于解决“爬虫操作繁琐与手动复制太累”的情况&lt;/p&gt;</description>
     </item>
     
