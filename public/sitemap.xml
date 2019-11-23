@@ -74,14 +74,39 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/post/how-to-get-google/</loc>
+    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/</loc>
     <lastmod>2019-11-20T10:53:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/how-to-get-google/</loc>
+    <loc>http://localhost:1313/categories/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
     <lastmod>2019-11-20T10:53:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2019-11-15T23:50:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/javascripts/</loc>
+    <lastmod>2019-11-15T23:50:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/echarts/</loc>
+    <lastmod>2019-11-15T23:50:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

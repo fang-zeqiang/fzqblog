@@ -39,12 +39,21 @@
     </item>
     
     <item>
-      <title>数据挖掘：基于文本挖掘分析谷歌招聘信息</title>
+      <title>基于文本挖掘分析谷歌招聘信息</title>
       <link>http://localhost:1313/post/how-to-get-google/</link>
       <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
       
       <guid>http://localhost:1313/post/how-to-get-google/</guid>
-      <description>&lt;p&gt;结合Python与Echarts做好数据挖掘&lt;/p&gt;</description>
+      <description>&lt;p&gt;结合Python与Echarts的数据挖掘项目&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>如何在Hugo静态博客中嵌入echarts图表</title>
+      <link>http://localhost:1313/post/echarts/</link>
+      <pubDate>Fri, 15 Nov 2019 23:50:41 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/echarts/</guid>
+      <description>&lt;p&gt;数据可视化嵌入实验&lt;/p&gt;</description>
     </item>
     
     <item>

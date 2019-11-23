@@ -20,8 +20,10 @@ weight: 7
 - [影哥](https://shadoowz97.github.io/)
 
 ## 大佬捕捉器
-- [Xieyi Hui](https://yihui.name/)
-- [于淼](https://yufree.cn)
+- [Xieyi Hui](https://yihui.name/) #统计 #数据科学
+- [于淼](https://yufree.cn) #数据科学
+
+- [Alili](https://alili.tech/) #前端 #可视化
 
 ## 内容管理系统范例
 - [南林竞赛平台](http://acm.njfu.edu.cn/)
@@ -33,6 +35,7 @@ weight: 7
 
 ## 常用链接
 - [bing](http://www.bing.com)
+- [magi](https://magi.com) #知识图谱 #实体抓取
 - [tencent docs](http://docs.qq.com)
 - [teamviewer](https://www.teamviewer.cn/cn/)
 
