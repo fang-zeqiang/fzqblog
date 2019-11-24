@@ -19,7 +19,7 @@ OneDrive也不能幸免，毕竟服务器在海外
 
 1. 进入目录**C:/Windows/System32/drivers/etc**，记事本打开host文件
 2. 在最后一行添加(注意空格)： **69.194.14.16 lncn.org**
-3. **win+R** 输入**cmd**回车，执行： **ipconfig /flushdns
+3. **win+R** 输入**cmd**回车，执行： **ipconfig /flushdns**
 4. 重新刷新页面即可,如失效请还原host并用代理访问！
 
 ## for mac os
