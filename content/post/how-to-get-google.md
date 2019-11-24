@@ -2,16 +2,15 @@
 title: "基于文本挖掘分析谷歌招聘信息"
 date: 2019-11-20T10:53:54+08:00
 draft: false
-tags: ["Data Mining"]
-categories: ["技术栈","数据可视化"] 
-shortcodes: true
+tags: ["Data Mining","数据可视化","Python","Echarts"]
+categories: ["技术栈"] 
 ---
 结合Python与Echarts的数据挖掘项目
 <!--more-->
 
 ## 前情提要
 
-本项目代码已公开在Coding平台，[点击链接](https://dev.tencent.com/u/cupcake/p/DataMining-GoogleJob/git)查看源代码，所有python的主要结构都是：
+本项目代码与数据集已公开在Coding平台，[点击链接](https://dev.tencent.com/u/cupcake/p/DataMining-GoogleJob/git)查看源代码，所有python的主要结构都是：
 
     1. 读取数据
     2. 数据处理
@@ -81,9 +80,14 @@ res=kmeans.fit_predict(datasets)
 
 - [点击我查看类别柱状图](/html/工作类别.html)
 
+...
 
-- [岗位职责](/html/职责.html)
+- [点击我查看岗位职责散点图](/html/职责.html)
 
-- [最低条件](/html/最低条件.html)
+...
 
-- [优先条件](/html/优先条件.html)
+- [点击我查看最低条件散点图](/html/最低条件.html)
+
+...
+
+- [点击我查看优先条件散点图](/html/优先条件.html)
