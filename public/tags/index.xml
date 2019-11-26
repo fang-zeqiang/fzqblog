@@ -21,6 +21,33 @@
     </item>
     
     <item>
+      <title>Echarts</title>
+      <link>http://localhost:1313/tags/echarts/</link>
+      <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/echarts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据可视化</title>
+      <link>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hugo</title>
       <link>http://localhost:1313/tags/hugo/</link>
       <pubDate>Fri, 15 Nov 2019 23:50:41 +0800</pubDate>
@@ -80,15 +107,6 @@
       <pubDate>Thu, 15 Aug 2019 23:50:41 +0800</pubDate>
       
       <guid>http://localhost:1313/tags/ccf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Thu, 15 Aug 2019 23:50:41 +0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
     

@@ -150,14 +150,14 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   # You can get your appid and appkey from https://leancloud.cn
   # more info please open https://valine.js.org
   [params.valine]
-    enable = false
-    appId = '你的appId'
-    appKey = '你的appKey'
+    enable = true
+    appId = 'coQHDtd3wfXbUbhqckEOviU4-gzGzoHsz' #coQHDtd3wfXbUbhqckEOviU4-gzGzoHsz
+    appKey = '2Ryt2Onv8FtrU0izHHFVO9kN' #2Ryt2Onv8FtrU0izHHFVO9kN
     notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
     verify = false # Verification code
     avatar = 'mm' 
     placeholder = '说点什么吧...'
-    visitor = false
+    visitor = true
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
     enable = false
@@ -168,7 +168,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     options = ""            # default: "{theme: 'simple'}"
 
   [params.busuanzi]         # count web traffic by busuanzi                             # 是否使用不蒜子统计站点访问量
-    enable = false
+    enable = true
     siteUV = true
     sitePV = true
     pagePV = true

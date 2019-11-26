@@ -34,7 +34,7 @@
 <link rel="manifest" href="/manifest.json">
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 
-
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <link href="/dist/even.c2a46f00.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
 
@@ -52,11 +52,11 @@
 
 <meta itemprop="datePublished" content="2019-11-20T10:53:54&#43;08:00" />
 <meta itemprop="dateModified" content="2019-11-20T10:53:54&#43;08:00" />
-<meta itemprop="wordCount" content="1988">
+<meta itemprop="wordCount" content="2019">
 
 
 
-<meta itemprop="keywords" content="Data Mining," />
+<meta itemprop="keywords" content="Data Mining,数据可视化,Python,Echarts," />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="基于文本挖掘分析谷歌招聘信息"/>
 <meta name="twitter:description" content="结合Python与Echarts的数据挖掘项目"/>
@@ -128,9 +128,8 @@
         <span class="post-time"> 2019-11-20 </span>
         <div class="post-category">
             <a href="/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/"> 技术栈 </a>
-            <a href="/categories/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"> 数据可视化 </a>
             </div>
-        
+        <span id="busuanzi_container_page_pv" class="more-meta"> <span id="busuanzi_value_page_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次阅读 </span>
       </div>
     </header>
 
@@ -156,7 +155,7 @@
 
 <h2 id="前情提要">前情提要</h2>
 
-<p>本项目代码已公开在Coding平台，<a href="https://dev.tencent.com/u/cupcake/p/DataMining-GoogleJob/git">点击链接</a>查看源代码，所有python的主要结构都是：</p>
+<p>本项目代码与数据集已公开在Coding平台，<a href="https://dev.tencent.com/u/cupcake/p/DataMining-GoogleJob/git">点击链接</a>查看源代码，所有python的主要结构都是：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><span class="lnt">1
@@ -256,13 +255,25 @@
 <p>我们发现销售&amp;客户管理以及市场营销&amp;沟通是一个这个公司招聘岗位里的大头，约占所有职位的27％。但是，职位招聘最少的岗位是（基于职位发布数）：数据中心与网络、技术写作、IT与数据管理、开发者关系、网络工程，偏重于技术开发，这里就能看出公司经费开销的比重</p>
 
 <ul>
-<li><p><a href="/html/工作类别.html">点击我查看类别柱状图</a></p></li>
+<li><a href="/html/工作类别.html">点击我查看类别柱状图</a></li>
+</ul>
 
-<li><p><a href="/html/职责.html">岗位职责</a></p></li>
+<p>&hellip;</p>
 
-<li><p><a href="/html/最低条件.html">最低条件</a></p></li>
+<ul>
+<li><a href="/html/职责.html">点击我查看岗位职责散点图</a></li>
+</ul>
 
-<li><p><a href="/html/优先条件.html">优先条件</a></p></li>
+<p>&hellip;</p>
+
+<ul>
+<li><a href="/html/最低条件.html">点击我查看最低条件散点图</a></li>
+</ul>
+
+<p>&hellip;</p>
+
+<ul>
+<li><a href="/html/优先条件.html">点击我查看优先条件散点图</a></li>
 </ul>
     </div>
 
@@ -284,6 +295,9 @@
 <footer class="post-footer">
       <div class="post-tags">
           <a href="/tags/data-mining/">Data Mining</a>
+          <a href="/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/">数据可视化</a>
+          <a href="/tags/python/">Python</a>
+          <a href="/tags/echarts/">Echarts</a>
           </div>
       <nav class="post-nav">
         <a class="prev" href="/post/mdcheatsheet/">
@@ -302,7 +316,26 @@
         </div>
         
 
-  
+  <span id="/post/how-to-get-google/" class="leancloud_visitors" data-flag-title="基于文本挖掘分析谷歌招聘信息">
+		<span class="post-meta-item-text">文章阅读量 </span>
+		<span class="leancloud-visitors-count">0</span>
+		<p></p>
+	  </span>
+  <div id="vcomments"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script type="text/javascript">
+    new Valine({
+        el: '#vcomments' ,
+        appId: 'coQHDtd3wfXbUbhqckEOviU4-gzGzoHsz',
+        appKey: '2Ryt2Onv8FtrU0izHHFVO9kN',
+        notify:  false ,
+        verify:  false ,
+        avatar:'mm',
+        placeholder: '说点什么吧...',
+        visitor:  true 
+    });
+  </script>
 
   
 
@@ -318,20 +351,19 @@
 </div>
 
 <div class="copyright">
-  <span class="power-by">
-    由 <a class="hexo-link" href="https://gohugo.io">Hugo</a> 强力驱动
-  </span>
-  <span class="division">|</span>
-  <span class="theme-info">
-    主题 - 
-    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
-  </span>
 
-  
+
+
+  <div class="busuanzi-footer">
+    <span id="busuanzi_container_site_pv"> 本站总访问量 <span id="busuanzi_value_site_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次 </span>
+      <span class="division">|</span>
+    <span id="busuanzi_container_site_uv"> 本站总访客数 <span id="busuanzi_value_site_uv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 人 </span>
+  </div>
 
   <span class="copyright-year">
     &copy; 
-    2019
+    2019 - 
+    25119
     <span class="heart">
       <i class="iconfont icon-heart"></i>
     </span>
