@@ -34,7 +34,7 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<link href="/dist/even.c2a46f00.min.css" rel="stylesheet">
+<link href="/dist/even.2a5bc09c.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
 
 
@@ -51,7 +51,7 @@
 
 <meta itemprop="datePublished" content="2019-11-09T14:03:07&#43;08:00" />
 <meta itemprop="dateModified" content="2019-11-09T14:03:07&#43;08:00" />
-<meta itemprop="wordCount" content="218">
+<meta itemprop="wordCount" content="366">
 
 
 
@@ -85,6 +85,8 @@
   <ul class="mobile-menu-list">
     <a href="/">
         <li class="mobile-menu-item">首页</li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">分类</li>
       </a><a href="/about/">
         <li class="mobile-menu-item">关于</li>
       </a><a href="/cv/">
@@ -104,6 +106,8 @@
   <ul id="menu" class="menu">
     <li class="menu-item">
         <a class="menu-item-link" href="/">首页</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">分类</a>
       </li><li class="menu-item">
         <a class="menu-item-link" href="/about/">关于</a>
       </li><li class="menu-item">
@@ -126,19 +130,21 @@
       <div class="post-meta">
         <span class="post-time"> 2019-11-09 </span>
         
+          <span class="more-meta"> 约 366 字 </span>
+          <span class="more-meta"> 预计阅读 1 分钟 </span>
         <span id="busuanzi_container_page_pv" class="more-meta"> <span id="busuanzi_value_page_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次阅读 </span>
       </div>
     </header>
 
     <div class="post-toc" id="post-toc">
   <h2 class="post-toc-title">文章目录</h2>
-  <div class="post-toc-content always-active">
+  <div class="post-toc-content">
     <nav id="TableOfContents">
 <ul>
 <li>
 <ul>
-<li><a href="#for-mac-os">for mac os</a></li>
 <li><a href="#for-windows">for windows</a></li>
+<li><a href="#for-mac-os">for mac os</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -151,29 +157,26 @@
 还有Cambly口语练习网站，官方就有教我们如何修改Hosts访问
 OneDrive也不能幸免，毕竟服务器在海外</p>
 
+<h2 id="for-windows">for windows</h2>
+
+<p>在本地host文件中将本站域名绑定到 <strong>69.194.14.16</strong></p>
+
+<p>安卓可下载 Hosts Go 添加 ， windows具体操作方法如下：</p>
+
+<ol>
+<li>进入目录<strong>C:/Windows/System32/drivers/etc</strong>，记事本打开host文件</li>
+<li>在最后一行添加(注意空格)： <strong>69.194.14.16 lncn.org</strong></li>
+<li><strong>win+R</strong> 输入<strong>cmd</strong>回车，执行： <strong>ipconfig /flushdns</strong></li>
+<li>重新刷新页面即可,如失效请还原host并用代理访问！</li>
+</ol>
+
 <h2 id="for-mac-os">for mac os</h2>
 
-<p>in Finder menu</p>
+<p>in Finder menu, enter <strong>Command+Shift+G</strong></p>
 
-<p>use</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt">1
-</span></pre></td>
-<td class="lntd">
-<pre class="chroma">Command+Shift+G</pre></td></tr></table>
-</div>
-</div>
-<p>input</p>
-<div class="highlight"><div class="chroma">
-<table class="lntable"><tr><td class="lntd">
-<pre class="chroma"><span class="lnt">1
-</span></pre></td>
-<td class="lntd">
-<pre class="chroma">/private/etc/</pre></td></tr></table>
-</div>
-</div>
-<p>then, you can find the hosts file</p>
+<p>go to <strong>/private/etc/</strong></p>
+
+<p>then, you can find the hosts file !</p>
 
 <p>Here is my hosts content as following</p>
 <div class="highlight"><div class="chroma">
@@ -204,7 +207,6 @@ OneDrive也不能幸免，毕竟服务器在海外</p>
 69.194.14.16    lncn.org</pre></td></tr></table>
 </div>
 </div>
-<h2 id="for-windows">for windows</h2>
     </div>
 
     <div class="post-copyright">
@@ -287,8 +289,7 @@ OneDrive也不能幸免，毕竟服务器在海外</p>
 
   <span class="copyright-year">
     &copy; 
-    2019 - 
-    25119
+    2019
     <span class="heart">
       <i class="iconfont icon-heart"></i>
     </span>

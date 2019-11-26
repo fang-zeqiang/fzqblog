@@ -20,6 +20,8 @@ draft: false
 
 6. [挑战杯文档](/doc/challenge.pdf)
 
+7. [数据挖掘报告](/doc/DataMining.pdf)
+
 ### 幻灯片Slides
 
 1. [悦诗风吟决赛幻灯片](/doc/innisfree.pdf)
