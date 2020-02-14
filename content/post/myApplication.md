@@ -1,7 +1,7 @@
 ---
 title: "我的目标院校"
 date: 2019-10-08T21:48:41+08:00
-draft: true
+draft: false
 ---
 研究生Master项目申请
 <!--more-->
