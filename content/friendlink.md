@@ -44,4 +44,7 @@ comment: false
 - [Sci-hub](http://www.sci-hub.tw)
 - [Baidu Academy](http://xueshu.baidu.com/)
 
+## 资源
+- [实用](/doc/List 2020 LKs.xls)
+
 注意：如果无法访问以上网站请将https改为http访问
