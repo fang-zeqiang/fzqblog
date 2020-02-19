@@ -6,17 +6,26 @@
     <description>Recent content in 区块链 on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 01 Aug 2019 16:13:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2019 18:04:19 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>智能合约研究笔记2</title>
+      <link>http://localhost:1313/post/notes/smartcontract-note-2/</link>
+      <pubDate>Wed, 18 Dec 2019 18:04:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/notes/smartcontract-note-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>智能合约研究笔记</title>
-      <link>http://localhost:1313/post/smartcontract-note-1/</link>
+      <link>http://localhost:1313/post/notes/smartcontract-note-1/</link>
       <pubDate>Thu, 01 Aug 2019 16:13:50 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/smartcontract-note-1/</guid>
+      <guid>http://localhost:1313/post/notes/smartcontract-note-1/</guid>
       <description>&lt;p&gt;“面向电子商务领域区块链智能合约的设计与实现” 项目笔记&lt;/p&gt;</description>
     </item>
     

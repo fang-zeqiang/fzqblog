@@ -13,10 +13,10 @@
     
     <item>
       <title>Markdown Cheatsheet</title>
-      <link>http://localhost:1313/post/mdcheatsheet/</link>
+      <link>http://localhost:1313/post/techstack/mdcheatsheet/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/mdcheatsheet/</guid>
+      <guid>http://localhost:1313/post/techstack/mdcheatsheet/</guid>
       <description></description>
     </item>
     
@@ -31,10 +31,10 @@
     
     <item>
       <title>基于Hugo与Github建立自己的博客</title>
-      <link>http://localhost:1313/post/bulid-a-blog/</link>
+      <link>http://localhost:1313/post/techstack/bulid-a-blog/</link>
       <pubDate>Sat, 27 Jul 2019 14:31:12 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/bulid-a-blog/</guid>
+      <guid>http://localhost:1313/post/techstack/bulid-a-blog/</guid>
       <description>&lt;p&gt;为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流&lt;/p&gt;</description>
     </item>
     

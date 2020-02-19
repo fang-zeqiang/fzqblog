@@ -6,7 +6,7 @@
     <description>Recent content in 学术笔记 on Zeqiang Fang | 方泽强</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 11 Aug 2019 11:40:13 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 16:31:45 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/categories/%E5%AD%A6%E6%9C%AF%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +30,33 @@
     </item>
     
     <item>
+      <title>SQL学习笔记</title>
+      <link>http://localhost:1313/post/notes/sql-note-1/</link>
+      <pubDate>Thu, 19 Dec 2019 16:31:45 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/notes/sql-note-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>智能合约研究笔记2</title>
+      <link>http://localhost:1313/post/notes/smartcontract-note-2/</link>
+      <pubDate>Wed, 18 Dec 2019 18:04:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/notes/smartcontract-note-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>大数据笔记</title>
+      <link>http://localhost:1313/post/notes/bigdatanote1/</link>
+      <pubDate>Tue, 17 Dec 2019 21:28:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/notes/bigdatanote1/</guid>
+      <description>&lt;p&gt;今天参加了奇安信的测试，对大数据的行业需求有了一定了解&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>TASK2_TOPICS</title>
       <link>http://localhost:1313/post/ilets/ielts_task2_topic/</link>
       <pubDate>Sun, 11 Aug 2019 11:40:13 +0800</pubDate>
@@ -40,10 +67,10 @@
     
     <item>
       <title>智能合约研究笔记</title>
-      <link>http://localhost:1313/post/smartcontract-note-1/</link>
+      <link>http://localhost:1313/post/notes/smartcontract-note-1/</link>
       <pubDate>Thu, 01 Aug 2019 16:13:50 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/smartcontract-note-1/</guid>
+      <guid>http://localhost:1313/post/notes/smartcontract-note-1/</guid>
       <description>&lt;p&gt;“面向电子商务领域区块链智能合约的设计与实现” 项目笔记&lt;/p&gt;</description>
     </item>
     

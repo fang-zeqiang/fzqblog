@@ -13,37 +13,37 @@
     
     <item>
       <title>Markdown Cheatsheet</title>
-      <link>http://localhost:1313/post/mdcheatsheet/</link>
+      <link>http://localhost:1313/post/techstack/mdcheatsheet/</link>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/mdcheatsheet/</guid>
+      <guid>http://localhost:1313/post/techstack/mdcheatsheet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>基于文本挖掘分析谷歌招聘信息</title>
-      <link>http://localhost:1313/post/how-to-get-google/</link>
+      <title>🔥基于文本挖掘分析谷歌招聘信息</title>
+      <link>http://localhost:1313/post/techstack/how-to-get-google/</link>
       <pubDate>Wed, 20 Nov 2019 10:53:54 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/how-to-get-google/</guid>
+      <guid>http://localhost:1313/post/techstack/how-to-get-google/</guid>
       <description>&lt;p&gt;结合Python与Echarts的数据挖掘项目&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>如何在Hugo静态博客中嵌入echarts图表</title>
-      <link>http://localhost:1313/post/echarts/</link>
+      <title>🔥如何在Hugo静态博客中嵌入echarts图表</title>
+      <link>http://localhost:1313/post/techstack/echarts/</link>
       <pubDate>Fri, 15 Nov 2019 23:50:41 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/echarts/</guid>
+      <guid>http://localhost:1313/post/techstack/echarts/</guid>
       <description>&lt;p&gt;数据可视化嵌入实验&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>基于Python的CCF模拟題解析（持续更新）</title>
-      <link>http://localhost:1313/post/ccf_set/</link>
+      <title>🔥基于Python的CCF模拟題解析（持续更新）</title>
+      <link>http://localhost:1313/post/techstack/ccf_set/</link>
       <pubDate>Thu, 15 Aug 2019 23:50:41 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/ccf_set/</guid>
+      <guid>http://localhost:1313/post/techstack/ccf_set/</guid>
       <description>&lt;p&gt;来自&lt;a href=&#34;http://118.190.20.162/home.page&#34;&gt;ccf官网&lt;/a&gt;的模拟考題，报名后即可查看&lt;/p&gt;</description>
     </item>
     
@@ -58,10 +58,10 @@
     
     <item>
       <title>基于Hugo与Github建立自己的博客</title>
-      <link>http://localhost:1313/post/bulid-a-blog/</link>
+      <link>http://localhost:1313/post/techstack/bulid-a-blog/</link>
       <pubDate>Sat, 27 Jul 2019 14:31:12 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/bulid-a-blog/</guid>
+      <guid>http://localhost:1313/post/techstack/bulid-a-blog/</guid>
       <description>&lt;p&gt;为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流&lt;/p&gt;</description>
     </item>
     

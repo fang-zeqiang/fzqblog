@@ -37,7 +37,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/mdcheatsheet/</loc>
+    <loc>http://localhost:1313/post/techstack/mdcheatsheet/</loc>
     <lastmod>2018-07-10T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -45,8 +45,83 @@
   
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
+    <lastmod>2019-12-19T16:31:45+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2019-12-19T16:31:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/sql/</loc>
+    <lastmod>2019-12-19T16:31:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/notes/sql-note-1/</loc>
+    <lastmod>2019-12-19T16:31:45+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2019-12-19T16:31:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2019-12-19T16:31:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/%E5%AD%A6%E6%9C%AF%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2019-12-19T16:31:45+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
+    <lastmod>2019-12-18T18:04:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/</loc>
+    <lastmod>2019-12-18T18:04:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/notes/smartcontract-note-2/</loc>
+    <lastmod>2019-12-18T18:04:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/mapreduce/</loc>
+    <lastmod>2019-12-17T21:28:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/spark/</loc>
+    <lastmod>2019-12-17T21:28:50+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/notes/bigdatanote1/</loc>
+    <lastmod>2019-12-17T21:28:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -62,34 +137,9 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2019-11-20T10:53:54+08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/how-to-get-google/</loc>
-    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -105,6 +155,13 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/post/techstack/how-to-get-google/</loc>
+    <lastmod>2019-11-20T10:53:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2019-11-15T23:50:41+08:00</lastmod>
     <priority>0</priority>
@@ -117,15 +174,28 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/echarts/</loc>
+    <loc>http://localhost:1313/post/techstack/echarts/</loc>
     <lastmod>2019-11-15T23:50:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/hosts_revise/</loc>
+    <loc>http://localhost:1313/post/techstack/hosts_revise/</loc>
     <lastmod>2019-11-09T14:03:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA/</loc>
+    <lastmod>2019-10-08T21:48:41+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/personal/myapplication/</loc>
+    <lastmod>2019-10-08T21:48:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -181,7 +251,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/ccf_set/</loc>
+    <loc>http://localhost:1313/post/techstack/ccf_set/</loc>
     <lastmod>2019-08-15T23:50:41+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -207,7 +277,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/work/</loc>
+    <loc>http://localhost:1313/post/personal/work/</loc>
     <lastmod>2019-08-12T22:47:50+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -227,39 +297,21 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/%E5%AD%A6%E6%9C%AF%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2019-08-11T11:40:13+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/collect_saying/</loc>
+    <loc>http://localhost:1313/post/personal/collect_saying/</loc>
     <lastmod>2019-08-02T18:35:51+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
-    <lastmod>2019-08-01T16:13:50+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6/</loc>
-    <lastmod>2019-08-01T16:13:50+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/smartcontract-note-1/</loc>
+    <loc>http://localhost:1313/post/notes/smartcontract-note-1/</loc>
     <lastmod>2019-08-01T16:13:50+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/bulid-a-blog/</loc>
+    <loc>http://localhost:1313/post/techstack/bulid-a-blog/</loc>
     <lastmod>2019-07-27T14:31:12+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -272,20 +324,14 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/%E4%B8%AA%E4%BA%BA/</loc>
-    <lastmod>2019-01-27T17:28:49+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/post/myexperience/</loc>
+    <loc>http://localhost:1313/post/personal/myexperience/</loc>
     <lastmod>2019-01-27T17:28:49+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/sffirst/</loc>
+    <loc>http://localhost:1313/post/personal/sffirst/</loc>
     <lastmod>2018-08-10T18:14:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>基于Hugo与Github建立自己的博客 - Zeqiang Fang | 方泽强</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="Zeqiang Fang" /><meta name="description" content="为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流
+" /><meta name="keywords" content="Mac, Software Engineer, Python, Echarts" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.55.1 with theme even" />
+
+
+<link rel="canonical" href="http://localhost:1313/post/techstack/bulid-a-blog/" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<link href="/dist/even.2a5bc09c.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
+
+
+<meta property="og:title" content="基于Hugo与Github建立自己的博客" />
+<meta property="og:description" content="为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/post/techstack/bulid-a-blog/" />
+<meta property="article:published_time" content="2019-07-27T14:31:12&#43;08:00"/>
+<meta property="article:modified_time" content="2019-07-27T14:31:12&#43;08:00"/>
+
+<meta itemprop="name" content="基于Hugo与Github建立自己的博客">
+<meta itemprop="description" content="为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流">
+
+
+<meta itemprop="datePublished" content="2019-07-27T14:31:12&#43;08:00" />
+<meta itemprop="dateModified" content="2019-07-27T14:31:12&#43;08:00" />
+<meta itemprop="wordCount" content="585">
+
+
+
+<meta itemprop="keywords" content="cheatsheet," />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="基于Hugo与Github建立自己的博客"/>
+<meta name="twitter:description" content="为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">Zeqiang Fang</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">首页</li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">分类</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">关于</li>
+      </a><a href="/cv/">
+        <li class="mobile-menu-item">简历</li>
+      </a><a href="/friendlink/">
+        <li class="mobile-menu-item">友情链接</li>
+      </a>
+  </ul>
+</nav>
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">Zeqiang Fang</a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">首页</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">分类</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">关于</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/cv/">简历</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/friendlink/">友情链接</a>
+      </li>
+  </ul>
+</nav>
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">基于Hugo与Github建立自己的博客</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2019-07-27 </span>
+        <div class="post-category">
+            <a href="/categories/%E6%8A%80%E6%9C%AF%E6%A0%88/"> 技术栈 </a>
+            </div>
+          <span class="more-meta"> 约 585 字 </span>
+          <span class="more-meta"> 预计阅读 2 分钟 </span>
+        <span id="busuanzi_container_page_pv" class="more-meta"> <span id="busuanzi_value_page_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次阅读 </span>
+      </div>
+    </header>
+
+    <div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">文章目录</h2>
+  <div class="post-toc-content">
+    <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#安装hugo">安装Hugo</a></li>
+<li><a href="#初始化hugo项目">初始化Hugo项目</a></li>
+<li><a href="#载入主题">载入主题</a></li>
+<li><a href="#预览hugo静态网页">预览Hugo静态网页</a></li>
+<li><a href="#添加新的博客文章">添加新的博客文章</a></li>
+<li><a href="#打包">打包</a></li>
+<li><a href="#部署到-github-pages">部署到 Github Pages</a></li>
+<li><a href="#其它">其它</a></li>
+</ul></li>
+</ul>
+</nav>
+  </div>
+</div>
+    <div class="post-content">
+      <p>为了总结经验，笔者借此写下利用hugo与github来建立自己的博客的经验，欢迎交流</p>
+
+<h2 id="安装hugo">安装Hugo</h2>
+
+<p>这个过程详见另一个博主的教程 <a href="https://nusr.github.io/post/2019/2019-04-26-creat-hugo-blog/">Hugo + Github Pages 搭建个人博客</a>
+- 注意：以下过程均在macOS环境下运行</p>
+
+<h2 id="初始化hugo项目">初始化Hugo项目</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">hugo new site <span class="o">[</span>your-project-name<span class="o">]</span></code></pre></td></tr></table>
+</div>
+</div>
+<p>这里以笔者的项目为例</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">hugo new fzqblog</code></pre></td></tr></table>
+</div>
+</div>
+<h2 id="载入主题">载入主题</h2>
+
+<p>同样以笔者为例子，进入项目，从github上当一个主题下来（该主题为笔者喜爱的，有兴趣可以选择自己的）</p>
+
+<p>主题会保存在项目博客根目录下的themes文件夹里</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="nb">cd</span> fzqblog
+git clone https://github.com/olOwOlo/hugo-theme-even themes/even</code></pre></td></tr></table>
+</div>
+</div>
+<h2 id="预览hugo静态网页">预览Hugo静态网页</h2>
+
+<p>进入 fzqblog/themes/even/exampleSite 目录中，将 config.toml 文件与content 文件夹拷贝到项目根目录下即 fzqblog/ ，提示是否替换点击是的。</p>
+
+<p>终端输入命令，启动 Hugo ,打开 <a href="http://localhost:1313/">http://localhost:1313/</a> 可预览:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">hugo server</code></pre></td></tr></table>
+</div>
+</div>
+<h2 id="添加新的博客文章">添加新的博客文章</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">hugo new post/new-article.md</code></pre></td></tr></table>
+</div>
+</div>
+<p>相关模板配置信息如下:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span><span class="lnt">8
+</span></pre></td>
+<td class="lntd">
+<pre class="chroma">---
+title: &#34;{{ replace .TranslationBaseName &#34;-&#34; &#34; &#34; | title }}&#34;
+date: {{ .Date }}
+description: &#34;&#34;
+draft: false
+---
+
+&lt;!--more--&gt;</pre></td></tr></table>
+</div>
+</div>
+<ul>
+<li>draft 设置为 false 或者去掉该参数才会显示</li>
+<li><code>&lt;!--more--&gt;</code> 之前的内容会自动作为页面摘要</li>
+</ul>
+
+<h2 id="打包">打包</h2>
+
+<p>其中even是主题名称</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">hugo -t even</code></pre></td></tr></table>
+</div>
+</div>
+<h2 id="部署到-github-pages">部署到 Github Pages</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash"><span class="c1"># 删除打包文件夹</span>
+rm -rf public
+
+<span class="c1"># 打包（even是主题，用户根据自己主题名具体操作）</span>
+hugo -t even 
+
+<span class="c1"># 进入打包后生成的public文件夹</span>
+<span class="nb">cd</span> public
+
+<span class="c1"># Add changes to git | 创建git命令</span>
+<span class="c1"># -A 表示所有内容</span>
+git init
+git add -A 
+
+<span class="c1"># Commit changes | 添加允许此次变更的说明</span>
+<span class="nv">msg</span> <span class="o">=</span> <span class="s2">&#34;building site `date`&#34;</span>
+git commit -m <span class="s2">&#34;</span><span class="nv">$msg</span><span class="s2">&#34;</span>
+
+<span class="c1"># 推送到github</span>
+git push -f <span class="o">[</span>your-SSH-key<span class="o">]</span> master</code></pre></td></tr></table>
+</div>
+</div>
+<ul>
+<li>注意：SSH key可在用户博客项目仓库中，单击Clone or Download找到</li>
+</ul>
+
+<h2 id="其它">其它</h2>
+
+<p>参考<a href="https://nusr.github.io/post/2019/2019-04-26-creat-hugo-blog/">博文</a>
+主题样例<a href="https://blog.olowolo.com/example-site/">预览</a></p>
+    </div>
+
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">文章作者</span>
+    <span class="item-content">Zeqiang Fang</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">上次更新</span>
+    <span class="item-content">
+        2019-07-27
+        
+    </span>
+  </p>
+  
+  
+</div>
+<footer class="post-footer">
+      <div class="post-tags">
+          <a href="/tags/cheatsheet/">cheatsheet</a>
+          </div>
+      <nav class="post-nav">
+        <a class="prev" href="/post/notes/smartcontract-note-1/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">智能合约研究笔记</span>
+            <span class="prev-text nav-mobile">上一篇</span>
+          </a>
+        <a class="next" href="/post/personal/myexperience/">
+            <span class="next-text nav-default">个人经历（详细）</span>
+            <span class="next-text nav-mobile">下一篇</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+
+  <span id="/post/techstack/bulid-a-blog/" class="leancloud_visitors" data-flag-title="基于Hugo与Github建立自己的博客">
+		<span class="post-meta-item-text">文章阅读量 </span>
+		<span class="leancloud-visitors-count">0</span>
+		<p></p>
+	  </span>
+  <div id="vcomments"></div>
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script type="text/javascript">
+    new Valine({
+        el: '#vcomments' ,
+        appId: 'coQHDtd3wfXbUbhqckEOviU4-gzGzoHsz',
+        appKey: '2Ryt2Onv8FtrU0izHHFVO9kN',
+        notify:  false ,
+        verify:  false ,
+        avatar:'mm',
+        placeholder: '说点什么吧...',
+        visitor:  true 
+    });
+  </script>
+
+  
+
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:zeqiangfang@foxmail.com" class="iconfont icon-email" title="email"></a>
+      <a href="https://github.com/Hereislittlemushroom" class="iconfont icon-github" title="github"></a>
+      <a href="https://space.bilibili.com/9199910" class="iconfont icon-bilibili" title="bilibili"></a>
+  <a href="http://localhost:1313/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+
+
+
+  <div class="busuanzi-footer">
+    <span id="busuanzi_container_site_pv"> 本站总访问量 <span id="busuanzi_value_site_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次 </span>
+      <span class="division">|</span>
+    <span id="busuanzi_container_site_uv"> 本站总访客数 <span id="busuanzi_value_site_uv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 人 </span>
+  </div>
+
+  <span class="copyright-year">
+    &copy; 
+    2019 - 
+    2020
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span>
+    <span class="author">Zeqiang Fang</span>
+  </span>
+</div>
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="/dist/even.26188efa.min.js"></script>
+
+
+
+
+
+
+
+
+</body>
+</html>
